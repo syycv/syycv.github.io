@@ -55,10 +55,9 @@ layout: default
 - 外包合作（大促期间首猜板块）与**达人**推广（有好货板块）
 <br>编写外包合同（与**外包**沟通，确定拍摄产品数、视频量、视频单价等）与签订，督促外包合同履约。
 
-
-
-
-**2018.07 ~ 2020.08            一元堂中医门诊部责任有限公司            策划部            新媒体运营**
+<p>
+    <strong>2020.12 ~ 2021.08&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 一元堂中医门诊部责任有限公司&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 策划部&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 新媒体运营</strong>
+</p>
 
 - 结合互联网时下**热词**，从标题、广告语、产品特征等方面入手，为主推产品编写**引流文**——曾在2019年“双11”前后完成微信渠道**30w**的销售目标。
 
@@ -68,6 +67,8 @@ layout: default
 
 ### 教育
 
-- 2021.03 ~ 2024.01            上海外国语大学                        本科                        日语专业
-- 2015.09 ~ 2018.06            武汉信息传播职业技术学院            大专            **新闻采编与制作**
+<ul>
+    <li>2022.09 ~ 2024.06&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 上海外国语大学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 本科&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 日语专业</li>
+    <li>2015.09 ~ 2018.06&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 武汉信息传播职业技术学院&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 大专&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>新闻采编与制作</strong></li>
+</ul>
   
